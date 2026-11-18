@@ -22,7 +22,7 @@ I enjoy building practical tools, exploring home automation, and turning everyda
 
 ### 🎮 Gaming & community tools
 
-- **[unicum.gg Mod](https://github.com/Rayman223/unicum.gg-mod)** — A World of Tanks client mod displaying player ratings, flags, and useful links to [unicum.gg](https://unicum.gg).
+- **[Battle-Conquest Mod](https://github.com/Battle-Conquest/battle-conquest-mod)** — A World of Tanks client mod that sends battle results to [Battle-Conquest](https://battle-conquest.eu), helping track tournament and quest progress, including Onslaught battles.
 - **[WoT Verify](https://github.com/Rayman223/discord-wot-verify)** — A Discord bot that verifies World of Tanks accounts and synchronizes server roles and nicknames.
 
 ---
