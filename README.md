@@ -13,7 +13,6 @@ I enjoy building practical tools, exploring home automation, and turning everyda
 ### 🏠 Home Assistant & smart home
 
 - **[Maintenance Tracker](https://github.com/Rayman223/ha-maintenance-tracker)** *(🚧 In development)* — A Home Assistant integration designed to track appliance maintenance by usage cycles, runtime hours, or calendar intervals, with reminders and a dashboard card.
-- **[Inventory Manager](https://github.com/Rayman223/ha-inventory-manager)** — Organize your fridge, freezer, and pantry with barcode scanning, expiration tracking, and helpful notifications.
 - **[Frient Smoke Detector Automations](https://github.com/Rayman223/HA-automatisation-Frient-smoke-detector)** — Coordinate Zigbee smoke alarms in Home Assistant, including alarm propagation, silencing, and notifications.
 
 ### 🛠️ Self-hosting & infrastructure
