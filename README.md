@@ -24,6 +24,10 @@ I enjoy building practical tools, exploring home automation, and turning everyda
 - **[Battle-Conquest Mod](https://github.com/Battle-Conquest/battle-conquest-mod)** — A World of Tanks client mod that sends battle results to [Battle-Conquest](https://battle-conquest.eu), helping track tournament and quest progress, including Onslaught battles.
 - **[WoT Verify](https://github.com/Rayman223/discord-wot-verify)** — A Discord bot that verifies World of Tanks accounts and synchronizes server roles and nicknames.
 
+### 🎵 Coming soon: LyricFlow
+
+**LyricFlow** is currently a private project, but I'm planning to make it publicly available soon. Stay tuned! 🚀
+
 ---
 
 ### 🔎 Want to see more?
