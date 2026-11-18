@@ -26,7 +26,7 @@ I enjoy building practical tools, exploring home automation, and turning everyda
 
 ### 🎵 Coming soon: LyricFlow
 
-**LyricFlow** is currently a private project, but I'm planning to make it publicly available soon. Stay tuned! 🚀
+**LyricFlow** is a mobile-friendly music teleprompter for phones and tablets, with a song library, built-in editor, adjustable scrolling, and offline support. The project is currently private, but I'm planning to make it publicly available soon. Stay tuned! 🚀
 
 ---
 
