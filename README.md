@@ -24,9 +24,9 @@ I enjoy building practical tools, exploring home automation, and turning everyda
 - **[Battle-Conquest Mod](https://github.com/Battle-Conquest/battle-conquest-mod)** — A World of Tanks client mod that sends battle results to [Battle-Conquest](https://battle-conquest.eu), helping track tournament and quest progress, including Onslaught battles.
 - **[WoT Verify](https://github.com/Rayman223/discord-wot-verify)** — A Discord bot that verifies World of Tanks accounts and synchronizes server roles and nicknames.
 
-### 🎵 Coming soon: LyricFlow
+### 🎵 LyricFlow
 
-**LyricFlow** is a mobile-friendly music teleprompter for phones and tablets, with a song library, built-in editor, adjustable scrolling, and offline support. The project is currently private, but I'm planning to make it publicly available soon. Stay tuned! 🚀
+**[LyricFlow](https://github.com/Rayman223/lyricflow)** is a mobile-friendly music teleprompter for phones and tablets, with a song library, built-in editor, adjustable scrolling, and offline support. The source code is now public.
 
 ---
 
