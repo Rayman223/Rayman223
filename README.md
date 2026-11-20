@@ -27,6 +27,7 @@ I enjoy building practical tools, exploring home automation, and turning everyda
 ### 🎵 LyricFlow
 
 **[LyricFlow](https://github.com/Rayman223/lyricflow)** is a mobile-friendly music teleprompter for phones and tablets, with a song library, built-in editor, adjustable scrolling, and offline support. The source code is now public.
+**[Try the live app](https://lyricflow.duckdns.org/)**
 
 ---
 
